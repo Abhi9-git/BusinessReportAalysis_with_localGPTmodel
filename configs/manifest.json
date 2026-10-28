@@ -1,0 +1,136 @@
+{
+  "companies": {
+    "TCS": {
+      "name": "Tata Consultancy Services",
+      "nse_symbol": "TCS",
+      "reports": [
+        {
+          "fy_label": "FY2024",
+          "period_start": "2023-04-01",
+          "period_end": "2024-03-31",
+          "filing_date": "2024-05-08",
+          "source_url": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2023-24/ar/annual-report-2023-2024.pdf",
+          "reporting_unit": "₹ crore",
+          "file": "TCS/FY2024.pdf"
+        },
+        {
+          "fy_label": "FY2025",
+          "period_start": "2024-04-01",
+          "period_end": "2025-03-31",
+          "filing_date": "2025-05-27",
+          "source_url": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2024-25/ar/annual-report-2024-2025.pdf",
+          "reporting_unit": "₹ crore",
+          "file": "TCS/FY2025.pdf"
+        },
+        {
+          "fy_label": "FY2026",
+          "period_start": "2025-04-01",
+          "period_end": "2026-03-31",
+          "filing_date": "2026-05-15",
+          "source_url": "https://www.tcs.com/content/dam/tcs/investor-relations/financial-statements/2025-26/ar/annual-report-2025-2026.pdf",
+          "reporting_unit": "₹ crore",
+          "file": "TCS/FY2026.pdf"
+        }
+      ]
+    },
+    "INFSY": {
+      "name": "Infosys",
+      "nse_symbol": "INFY",
+      "reports": [
+        {
+          "fy_label": "FY2024",
+          "period_start": "2023-04-01",
+          "period_end": "2024-03-31",
+          "filing_date": "2024-06-03",
+          "source_url": "https://www.infosys.com/investors/reports-filings/annual-report/annual/documents/infosys-ar-24.pdf",
+          "reporting_unit": "₹ crore",
+          "file": "INFSY/FY2024.pdf"
+        },
+        {
+          "fy_label": "FY2025",
+          "period_start": "2024-04-01",
+          "period_end": "2025-03-31",
+          "filing_date": "2025-06-02",
+          "source_url": "https://www.infosys.com/investors/reports-filings/annual-report/annual/documents/infosys-ar-25.pdf",
+          "reporting_unit": "₹ crore",
+          "file": "INFSY/FY2025.pdf"
+        },
+        {
+          "fy_label": "FY2026",
+          "period_start": "2025-04-01",
+          "period_end": "2026-03-31",
+          "filing_date": "2026-05-29",
+          "source_url": "https://www.infosys.com/investors/reports-filings/annual-report/annual-reports/ar-2025-26.html",
+          "reporting_unit": "₹ crore",
+          "file": "INFSY/FY2026.pdf"
+        }
+      ]
+    },
+    "AsianP": {
+      "name": "Asian Paints",
+      "nse_symbol": "ASIANPAINT",
+      "reports": [
+        {
+          "fy_label": "FY2024",
+          "period_start": "2023-04-01",
+          "period_end": "2024-03-31",
+          "filing_date": "2024-05-09",
+          "source_url": "https://www.asianpaints.com/content/annualreport/annual-report-23-24.html",
+          "reporting_unit": "₹ crore",
+          "file": "AsianP/FY2024.pdf"
+        },
+        {
+          "fy_label": "FY2025",
+          "period_start": "2024-04-01",
+          "period_end": "2025-03-31",
+          "filing_date": "2025-05-08",
+          "source_url": "https://www.asianpaints.com/content/annualreport/annual-report-24-25.html",
+          "reporting_unit": "₹ crore",
+          "file": "AsianP/FY2025.pdf"
+        },
+        {
+          "fy_label": "FY2026",
+          "period_start": "2025-04-01",
+          "period_end": "2026-03-31",
+          "filing_date": "2026-05-29",
+          "source_url": "https://www.asianpaints.com/content/annualreport/annual-report-25-26.html",
+          "reporting_unit": "₹ crore",
+          "file": "AsianP/FY2026.pdf"
+        }
+      ]
+    },
+    "HUL": {
+      "name": "Hindustan Unilever",
+      "nse_symbol": "HINDUNILVR",
+      "reports": [
+        {
+          "fy_label": "FY2024",
+          "period_start": "2023-04-01",
+          "period_end": "2024-03-31",
+          "filing_date": "2024-05-22",
+          "source_url": "https://www.hul.co.in/files/annual-report-2023-24.pdf",
+          "reporting_unit": "₹ crore",
+          "file": "HUL/FY2024.pdf"
+        },
+        {
+          "fy_label": "FY2025",
+          "period_start": "2024-04-01",
+          "period_end": "2025-03-31",
+          "filing_date": "2025-05-29",
+          "source_url": "https://www.hul.co.in/files/hul-integrated-annual-report-2024-25.pdf",
+          "reporting_unit": "₹ crore",
+          "file": "HUL/FY2025.pdf"
+        },
+        {
+          "fy_label": "FY2026",
+          "period_start": "2025-04-01",
+          "period_end": "2026-03-31",
+          "filing_date": "2026-06-02",
+          "source_url": "https://www.hul.co.in/files/annual-report-2025-26.pdf",
+          "reporting_unit": "₹ crore",
+          "file": "HUL/FY2026.pdf"
+        }
+      ]
+    }
+  }
+}
